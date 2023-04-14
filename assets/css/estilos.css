@@ -5,19 +5,24 @@ html{
 body{
     margin: 0;
     padding: 0;
-    background: radial-gradient(circle, #ffffdd, rgb(173, 133, 133));
+    background: radial-gradient(circle, #ffffdd, rgb(186, 205, 213));
 
 }
 
 /* ------Header------ */
+
+.inicio{
+    text-decoration: none;
+}
 
 #titulo--header{
     font-size: 3rem;
     margin-top: auto;   
 }
 
-#header{
-    background-color: #ffffdd;
+.header{
+    background: radial-gradient(circle, #dedea9, rgb(255, 255, 255));
+    
     height: 7.5rem;
     text-align: center;
 }
@@ -31,12 +36,14 @@ body{
     margin: 2rem;
 }
 
-#clima{
+.clima {
     display: flex;
-    justify-content: flex-end;
+    flex-direction: row;
+    justify-content: space-evenly;
     background-color: #fff;
     border-radius: 5px;
     font-size: 1.5rem;
+
 }
 .container-indicaciones{
     text-align: center;
@@ -105,5 +112,88 @@ body{
 }
 
 #articulos{
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnSubirContainer{
+    display: flex; 
+    justify-content: center;
+}
+
+.btnSubir{
+    border-radius: 5px;
+    background-color: transparent;
+    font-size: 1.2rem;
+}
+
+.btnSubir a{
+    text-decoration: none;
+}
+
+/* carrito */
+
+.submenu{
+    position:relative
+}
+
+.submenu #carrito{
+    display: none;
+}
+
+.imgCarrito{
+    cursor: pointer;
+    list-style-type: none;
+}
+
+.row{
+    display: flex;
+    flex-direction: column;
     border: 2px solid red;
 }
+
+#listaCarrito .row{
+    margin-bottom: 20px;
+}
+
+.agregarCarrito{
+    margin: 1rem;
+    border-radius: 5px;
+    background-color: transparent;
+    font-size: 1.2rem;
+    text-decoration: none;
+
+}
+
+.submenu:hover #carrito{
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    z-index: 1;
+    background-color: white;
+    padding: 20px;
+    min-height: 400px;
+    min-width: 300px;
+}
+
+.botonCarrito{
+    margin: 1rem;
+    background-color: transparent;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+.botonCompra{
+    margin: 1rem;
+    background-color: transparent;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+

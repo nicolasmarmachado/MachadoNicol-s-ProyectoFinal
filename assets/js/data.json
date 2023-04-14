@@ -1,542 +1,632 @@
 [
-    {
-      "rubro": "ferreteria",
-      "negocio": "Baleis",
-      "articulo": "Tornillos",
-      "precio": 10
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "Baleis",
-      "articulo": "Clavos",
-      "precio": 5
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "Baleis",
-      "articulo": "Martillo",
-      "precio": 100
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "Ghilardi",
-      "articulo": "Tornillos",
-      "precio": 10
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "Ghilardi",
-      "articulo": "Clavos",
-      "precio": 6
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "Ghilardi",
-      "articulo": "Martillo",
-      "precio": 110
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "El Martillo Veloz",
-      "articulo": "Tornillos",
-      "precio": 12
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "El Martillo Veloz",
-      "articulo": "Clavos",
-      "precio": 5
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "El Martillo Veloz",
-      "articulo": "Martillo",
-      "precio": 100
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "La llave Dorada",
-      "articulo": "Tornillos",
-      "precio": 9
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "La llave Dorada",
-      "articulo": "Clavos",
-      "precio": 4
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "La llave Dorada",
-      "articulo": "Martillo",
-      "precio": 115
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "El tornillo fiel",
-      "articulo": "Tornillos",
-      "precio": 10
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "El tornillo fiel",
-      "articulo": "Clavos",
-      "precio": 7
-    },
-    {
-      "rubro": "ferreteria",
-      "negocio": "El tornillo fiel",
-      "articulo": "Martillo",
-      "precio": 120
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "Rica Pizza",
-      "articulo": "Pizza",
-      "precio": 1000
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "Rica Pizza",
-      "articulo": "Empanadas",
-      "precio": 200
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "Rica Pizza",
-      "articulo": "Lomitos",
-      "precio": 1500
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "La buona Pizza",
-      "articulo": "Pizza",
-      "precio": 1200
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "La buona Pizza",
-      "articulo": "Empanadas",
-      "precio": 220
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "La buona Pizza",
-      "articulo": "Lomitos",
-      "precio": 1700
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "Abbey Road",
-      "articulo": "Pizza",
-      "precio": 1100
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "Abbey Road",
-      "articulo": "Empanadas",
-      "precio": 230
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "Abbey Road",
-      "articulo": "Lomitos",
-      "precio": 1600
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "La Fraternal",
-      "articulo": "Pizza",
-      "precio": 1000
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "La Fraternal",
-      "articulo": "Empanadas",
-      "precio": 200
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "La Fraternal",
-      "articulo": "Lomitos",
-      "precio": 1650
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "Elios",
-      "articulo": "Pizza",
-      "precio": 1150
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "Elios",
-      "articulo": "Empanadas",
-      "precio": 225
-    },
-    {
-      "rubro": "comidas",
-      "negocio": "Elios",
-      "articulo": "Lomitos",
-      "precio": 1600
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Lola",
-      "articulo": "Gaseosas",
-      "precio": 400
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Lola",
-      "articulo": "Cigarrillos",
-      "precio": 200
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Lola",
-      "articulo": "Golosinas",
-      "precio": 100
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Plaza",
-      "articulo": "Gaseosas",
-      "precio": 450
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Plaza",
-      "articulo": "Cigarrillos",
-      "precio": 250
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Plaza",
-      "articulo": "Golosinas",
-      "precio": 110
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Elii",
-      "articulo": "Gaseosas",
-      "precio": 500
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Elii",
-      "articulo": "Cigarrillos",
-      "precio": 220
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Elii",
-      "articulo": "Golosinas",
-      "precio": 105
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Andrea",
-      "articulo": "Gaseosas",
-      "precio": 430
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Andrea",
-      "articulo": "Cigarrillos",
-      "precio": 230
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Andrea",
-      "articulo": "Golosinas",
-      "precio": 100
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Mary",
-      "articulo": "Gaseosas",
-      "precio": 475
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Mary",
-      "articulo": "Cigarrillos",
-      "precio": 240
-    },
-    {
-      "rubro": "kioscos",
-      "negocio": "Mary",
-      "articulo": "Golosinas",
-      "precio": 95
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Anastasia",
-      "articulo": "Camisa",
-      "precio": 5000
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Anastasia",
-      "articulo": "Pantalón",
-      "precio": 7000
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Anastasia",
-      "articulo": "Remera",
-      "precio": 3500
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Moon",
-      "articulo": "Camisa",
-      "precio": 6500
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Moon",
-      "articulo": "Pantalón",
-      "precio": 7500
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Moon",
-      "articulo": "Remera",
-      "precio": 4000
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Osiris",
-      "articulo": "Camisa",
-      "precio": 4500
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Osiris",
-      "articulo": "Pantalón",
-      "precio": 6600
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Osiris",
-      "articulo": "Remera",
-      "precio": 3000
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Trendy",
-      "articulo": "Camisa",
-      "precio": 6600
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Trendy",
-      "articulo": "Pantalón",
-      "precio": 8000
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Trendy",
-      "articulo": "Remera",
-      "precio": 3500
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Mecs",
-      "articulo": "Camisa",
-      "precio": 4500
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Mecs",
-      "articulo": "Pantalón",
-      "precio": 5500
-    },
-    {
-      "rubro": "ropa",
-      "negocio": "Mecs",
-      "articulo": "Remera",
-      "precio": 2800
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Chiaro",
-      "articulo": "Jabón en polvo",
-      "precio": 2000
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Chiaro",
-      "articulo": "Papel higiénico",
-      "precio": 600
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Chiaro",
-      "articulo": "Dentífrico",
-      "precio": 400
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Los Chinos",
-      "articulo": "Jabón en polvo",
-      "precio": 2500
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Los Chinos",
-      "articulo": "Papel higiénico",
-      "precio": 650
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Los Chinos",
-      "articulo": "Dentífrico",
-      "precio": 450
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Yamila",
-      "articulo": "Jabón en polvo",
-      "precio": 2300
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Yamila",
-      "articulo": "Papel higiénico",
-      "precio": 550
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Yamila",
-      "articulo": "Dentífrico",
-      "precio": 420
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "La Suiza",
-      "articulo": "Jabón en polvo",
-      "precio": 2400
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "La Suiza",
-      "articulo": "Papel higiénico",
-      "precio": 570
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "La Suiza",
-      "articulo": "Dentífrico",
-      "precio": 430
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Eliré",
-      "articulo": "Jabón en polvo",
-      "precio": 2200
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Eliré",
-      "articulo": "Papel higiénico",
-      "precio": 620
-    },
-    {
-      "rubro": "supermercados",
-      "negocio": "Eliré",
-      "articulo": "Dentífrico",
-      "precio": 430
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Celular Service",
-      "articulo": "Celulares",
-      "precio": 60000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Celular Service",
-      "articulo": "Tablet",
-      "precio": 45000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Celular Service",
-      "articulo": "Notebook",
-      "precio": 200000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Fix",
-      "articulo": "Celulares",
-      "precio": 55000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Fix",
-      "articulo": "Tablet",
-      "precio": 35000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Fix",
-      "articulo": "Notebook",
-      "precio": 180000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Digital World",
-      "articulo": "Celulares",
-      "precio": 70000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Digital World",
-      "articulo": "Tablet",
-      "precio": 55000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Digital World",
-      "articulo": "Notebook",
-      "precio": 220000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Relojeria Valhalla",
-      "articulo": "Celulares",
-      "precio": 65000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Relojeria Valhalla",
-      "articulo": "Tablet",
-      "precio": 60000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Relojeria Valhalla",
-      "articulo": "Notebook",
-      "precio": 220000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Horus",
-      "articulo": "Celulares",
-      "precio": 62000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Horus",
-      "articulo": "Tablet",
-      "precio": 40000
-    },
-    {
-      "rubro": "tecnologia",
-      "negocio": "Horus",
-      "articulo": "Notebook",
-      "precio": 230000
-    }
-  ]
+  {
+    "rubro": "ferreteria",
+    "negocio": "Baleis",
+    "articulo": "Tornillos",
+    "precio": 10,
+    "id": 1
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "Baleis",
+    "articulo": "Clavos",
+    "precio": 5,
+    "id": 2
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "Baleis",
+    "articulo": "Martillo",
+    "precio": 100,
+    "id": 3
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "Ghilardi",
+    "articulo": "Tornillos",
+    "precio": 10,
+    "id": 4
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "Ghilardi",
+    "articulo": "Clavos",
+    "precio": 6,
+    "id": 5
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "Ghilardi",
+    "articulo": "Martillo",
+    "precio": 110,
+    "id": 6
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "El Martillo Veloz",
+    "articulo": "Tornillos",
+    "precio": 12,
+    "id": 7
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "El Martillo Veloz",
+    "articulo": "Clavos",
+    "precio": 5,
+    "id": 8
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "El Martillo Veloz",
+    "articulo": "Martillo",
+    "precio": 100,
+    "id": 9
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "La llave Dorada",
+    "articulo": "Tornillos",
+    "precio": 9,
+    "id": 10
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "La llave Dorada",
+    "articulo": "Clavos",
+    "precio": 4,
+    "id": 11
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "La llave Dorada",
+    "articulo": "Martillo",
+    "precio": 115,
+    "id": 12
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "El tornillo fiel",
+    "articulo": "Tornillos",
+    "precio": 10,
+    "id": 13
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "El tornillo fiel",
+    "articulo": "Clavos",
+    "precio": 7,
+    "id": 14
+  },
+  {
+    "rubro": "ferreteria",
+    "negocio": "El tornillo fiel",
+    "articulo": "Martillo",
+    "precio": 120,
+    "id": 15
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "Rica Pizza",
+    "articulo": "Pizza",
+    "precio": 1000,
+    "id": 16
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "Rica Pizza",
+    "articulo": "Empanadas",
+    "precio": 200,
+    "id": 17
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "Rica Pizza",
+    "articulo": "Lomitos",
+    "precio": 1500,
+    "id": 18
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "La buona Pizza",
+    "articulo": "Pizza",
+    "precio": 1200,
+    "id": 19
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "La buona Pizza",
+    "articulo": "Empanadas",
+    "precio": 220,
+    "id": 20
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "La buona Pizza",
+    "articulo": "Lomitos",
+    "precio": 1700,
+    "id": 21
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "Abbey Road",
+    "articulo": "Pizza",
+    "precio": 1100,
+    "id": 22
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "Abbey Road",
+    "articulo": "Empanadas",
+    "precio": 230,
+    "id": 23
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "Abbey Road",
+    "articulo": "Lomitos",
+    "precio": 1600,
+    "id": 24
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "La Fraternal",
+    "articulo": "Pizza",
+    "precio": 1000,
+    "id": 25
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "La Fraternal",
+    "articulo": "Empanadas",
+    "precio": 200,
+    "id": 26
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "La Fraternal",
+    "articulo": "Lomitos",
+    "precio": 1650,
+    "id": 27
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "Elios",
+    "articulo": "Pizza",
+    "precio": 1150,
+    "id": 28
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "Elios",
+    "articulo": "Empanadas",
+    "precio": 225,
+    "id": 29
+  },
+  {
+    "rubro": "comidas",
+    "negocio": "Elios",
+    "articulo": "Lomitos",
+    "precio": 1600,
+    "id": 30
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Lola",
+    "articulo": "Gaseosas",
+    "precio": 400,
+    "id": 31
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Lola",
+    "articulo": "Cigarrillos",
+    "precio": 200,
+    "id": 32
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Lola",
+    "articulo": "Golosinas",
+    "precio": 100,
+    "id": 33
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Plaza",
+    "articulo": "Gaseosas",
+    "precio": 450,
+    "id": 34
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Plaza",
+    "articulo": "Cigarrillos",
+    "precio": 250,
+    "id": 35
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Plaza",
+    "articulo": "Golosinas",
+    "precio": 110,
+    "id": 36
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Elii",
+    "articulo": "Gaseosas",
+    "precio": 500,
+    "id": 37
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Elii",
+    "articulo": "Cigarrillos",
+    "precio": 220,
+    "id": 38
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Elii",
+    "articulo": "Golosinas",
+    "precio": 105,
+    "id": 39
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Andrea",
+    "articulo": "Gaseosas",
+    "precio": 430,
+    "id": 40
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Andrea",
+    "articulo": "Cigarrillos",
+    "precio": 230,
+    "id": 41
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Andrea",
+    "articulo": "Golosinas",
+    "precio": 100,
+    "id": 42
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Mary",
+    "articulo": "Gaseosas",
+    "precio": 475,
+    "id": 43
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Mary",
+    "articulo": "Cigarrillos",
+    "precio": 240,
+    "id": 44
+  },
+  {
+    "rubro": "kioscos",
+    "negocio": "Mary",
+    "articulo": "Golosinas",
+    "precio": 95,
+    "id": 45
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Anastasia",
+    "articulo": "Camisa",
+    "precio": 5000,
+    "id": 46
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Anastasia",
+    "articulo": "Pantalón",
+    "precio": 7000,
+    "id": 47
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Anastasia",
+    "articulo": "Remera",
+    "precio": 3500,
+    "id": 48
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Moon",
+    "articulo": "Camisa",
+    "precio": 6500,
+    "id": 49
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Moon",
+    "articulo": "Pantalón",
+    "precio": 7500,
+    "id": 50
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Moon",
+    "articulo": "Remera",
+    "precio": 4000,
+    "id": 51
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Osiris",
+    "articulo": "Camisa",
+    "precio": 4500,
+    "id": 52
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Osiris",
+    "articulo": "Pantalón",
+    "precio": 6600,
+    "id": 53
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Osiris",
+    "articulo": "Remera",
+    "precio": 3000,
+    "id": 54
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Trendy",
+    "articulo": "Camisa",
+    "precio": 6600,
+    "id": 55
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Trendy",
+    "articulo": "Pantalón",
+    "precio": 8000,
+    "id": 56
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Trendy",
+    "articulo": "Remera",
+    "precio": 3500,
+    "id": 57
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Mecs",
+    "articulo": "Camisa",
+    "precio": 4500,
+    "id": 58
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Mecs",
+    "articulo": "Pantalón",
+    "precio": 5500,
+    "id": 59
+  },
+  {
+    "rubro": "ropa",
+    "negocio": "Mecs",
+    "articulo": "Remera",
+    "precio": 2800,
+    "id": 60
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Chiaro",
+    "articulo": "Jabón en polvo",
+    "precio": 2000,
+    "id": 61
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Chiaro",
+    "articulo": "Papel higiénico",
+    "precio": 600,
+    "id": 62
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Chiaro",
+    "articulo": "Dentífrico",
+    "precio": 400,
+    "id": 63
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Los Chinos",
+    "articulo": "Jabón en polvo",
+    "precio": 2500,
+    "id": 64
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Los Chinos",
+    "articulo": "Papel higiénico",
+    "precio": 650,
+    "id": 65
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Los Chinos",
+    "articulo": "Dentífrico",
+    "precio": 450,
+    "id": 66
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Yamila",
+    "articulo": "Jabón en polvo",
+    "precio": 2300,
+    "id": 67
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Yamila",
+    "articulo": "Papel higiénico",
+    "precio": 550,
+    "id": 68
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Yamila",
+    "articulo": "Dentífrico",
+    "precio": 420,
+    "id": 69
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "La Suiza",
+    "articulo": "Jabón en polvo",
+    "precio": 2400,
+    "id": 70
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "La Suiza",
+    "articulo": "Papel higiénico",
+    "precio": 570,
+    "id": 71
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "La Suiza",
+    "articulo": "Dentífrico",
+    "precio": 430,
+    "id": 72
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Eliré",
+    "articulo": "Jabón en polvo",
+    "precio": 2200,
+    "id": 73
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Eliré",
+    "articulo": "Papel higiénico",
+    "precio": 620,
+    "id": 74
+  },
+  {
+    "rubro": "supermercados",
+    "negocio": "Eliré",
+    "articulo": "Dentífrico",
+    "precio": 430,
+    "id": 75
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Celular Service",
+    "articulo": "Celulares",
+    "precio": 60000,
+    "id": 76
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Celular Service",
+    "articulo": "Tablet",
+    "precio": 45000,
+    "id": 77
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Celular Service",
+    "articulo": "Notebook",
+    "precio": 200000,
+    "id": 78
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Fix",
+    "articulo": "Celulares",
+    "precio": 55000,
+    "id": 79
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Fix",
+    "articulo": "Tablet",
+    "precio": 35000,
+    "id": 80
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Fix",
+    "articulo": "Notebook",
+    "precio": 180000,
+    "id": 81
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Digital World",
+    "articulo": "Celulares",
+    "precio": 70000,
+    "id": 82
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Digital World",
+    "articulo": "Tablet",
+    "precio": 55000,
+    "id": 83
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Digital World",
+    "articulo": "Notebook",
+    "precio": 220000,
+    "id": 84
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Relojeria Valhalla",
+    "articulo": "Celulares",
+    "precio": 65000,
+    "id": 85
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Relojeria Valhalla",
+    "articulo": "Tablet",
+    "precio": 60000,
+    "id": 86
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Relojeria Valhalla",
+    "articulo": "Notebook",
+    "precio": 220000,
+    "id": 87
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Horus",
+    "articulo": "Celulares",
+    "precio": 62000,
+    "id": 88
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Horus",
+    "articulo": "Tablet",
+    "precio": 40000,
+    "id": 89
+  },
+  {
+    "rubro": "tecnologia",
+    "negocio": "Horus",
+    "articulo": "Notebook",
+    "precio": 230000,
+    "id": 90
+  }
+]
