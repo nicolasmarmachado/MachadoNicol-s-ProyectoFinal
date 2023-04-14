@@ -1,0 +1,109 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: radial-gradient(circle, #ffffdd, rgb(173, 133, 133));
+
+}
+
+/* ------Header------ */
+
+#titulo--header{
+    font-size: 3rem;
+    margin-top: auto;   
+}
+
+#header{
+    background-color: #ffffdd;
+    height: 7.5rem;
+    text-align: center;
+}
+
+
+/* ------Main------ */
+
+.titulo-main {
+    font-size: 3rem;
+    text-align: center;
+    margin: 2rem;
+}
+
+#clima{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #fff;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+.container-indicaciones{
+    text-align: center;
+    margin: 2rem;
+}
+
+#boton-container{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.boton-volver{
+    background-color: transparent;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+
+#container-card{
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.card{
+    margin: 10px;    
+    cursor: pointer;
+}
+
+.card:hover{
+    box-shadow: 5px 5px 10px;
+}
+
+.negocio{
+    margin: 5px;
+    line-height: 2rem;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+    width: 18rem;
+}
+
+.negocio:hover{
+    box-shadow: 5px 5px 10px;
+}
+
+.negocio::first-letter{
+    text-transform: uppercase;
+
+}
+
+.muestraRubro{
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.desaparecerRubro{
+    display: none;
+}
+
+#articulos{
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#articulos{
+    border: 2px solid red;
+}
